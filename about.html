@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&family=Pacifico&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kishanved.tech.about</title>
+    <style>
+        body{
+            /* background-color: rgb(163, 196, 239); */
+            background-color:#2c3237;
+            font-size: 30px;
+            color:white;
+        }
+        .Nav{
+            /* border: 2px solid red; */
+            border-radius: 30px;
+            border: 3px solid white;
+            background-color:#2c3237;
+            /* On scrolling, when it reaches the specified place, it sticks there */
+            position:sticky;
+            width:850px;
+            margin: auto;
+            top : 3px;
+            z-index: 1; 
+            /* So nav bar remains above */
+        }
+        
+        .Nav ul{
+            font-size: 10px;
+            overflow: auto; /*Prevents the elements on it from moving outside (overflowing). In this case, the text moves outside the navigation bar if this is not done*/
+        }
+        .Nav li{
+            list-style : none;
+            float:right;
+            padding:25px 30px 15px 30px;
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif ;
+            font-weight: bold;
+            font-style: italic;
+        }
+        .Nav li a{
+            text-decoration: none;
+            color:white;
+        }
+        .Nav li a:hover{
+            color:rgb(6, 6, 99);
+        }
+        .Nav li aa{
+            font-family: 'Fuzzy Bubbles', cursive;
+            font-size:500;
+            color:white;
+            font-style:normal;
+        }
+        .box{
+            background-color:#2c3237;
+            color:white;
+            height:550px;
+            width:25%;
+            border-radius: 30px;
+            /* position:absolute; */
+            top:100px;
+            display : inline-block; 
+            margin:0px 40px 0px 40px; 
+            border: 3px solid white;
+            padding:30px;
+            font-size: 25px;
+            overflow: auto;
+        }
+        .footer{
+            background-color:#2c3237;
+            height:6rem;
+            color:white;
+            width:80%;
+            border-radius: 30px;
+            /* position:relative; */
+            /* top:100px; */
+            /* display : block; 
+            margin: 30px auto;
+            padding:30px; */
+            display: flex;
+            margin : 20px auto;
+            justify-content: center; /* horizontally center */
+            align-items: center; /* vertically center */
+            border: 3px solid white;
+        }
+        #greeting {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 100px;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  /* border: 2px solid black; */
+  border-radius:10px;
+  /* display:block; */
+  display: flex;
+      justify-content: center;
+      align-items: center;
+  /* display: flex; */
+  margin:auto auto;
+  color:white;
+  height:300px;
+  font-family: 'Fuzzy Bubbles', cursive;
+  /* text-shadow: black; */
+  /* background-color: white; */
+  /* z-index: 1;  */
+}
+        #welcome-text {
+  font-size: 35px;
+  text-align: center;
+  margin-top: 100px;
+  /* opacity: 0; */
+  /* border: 2px solid black; */
+  border-radius:10px;
+  /* display:block; */
+  display: flex;
+      justify-content: center;
+      align-items: center;
+  /* display: flex; */
+  margin:auto auto;
+  color:white;
+  height:150px;
+  /* text-shadow: black; */
+  /* background-color: white; */
+  /* z-index: 1;  */
+}
+/* Small screens */
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 20px;
+  }
+  .Nav {
+    width: 100%;
+  }
+  .Nav li {
+    padding: 10px;
+  }
+  .box {
+    width: 100%;
+    margin: 20px 0;
+  }
+  #greeting {
+    font-size: 50px;
+    height: 200px;
+  }
+  #welcome-text {
+    font-size: 20px;
+    height: 100px;
+  }
+  .footer {
+    font-size: 14px;
+    height: auto;
+    padding: 10px;
+  }
+}
+
+/* Medium screens */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  body {
+    font-size: 25px;
+  }
+  .Nav {
+    width: 100%;
+  }
+  .Nav li {
+    padding: 15px;
+  }
+  .box {
+    width: 45%;
+    margin: 20px;
+  }
+  #greeting {
+    font-size: 75px;
+    height: 250px;
+  }
+  #welcome-text {
+    font-size: 25px;
+    height: 125px;
+  }
+}
+
+/* Large screens */
+@media only screen and (min-width: 1025px) {
+  body {
+    font-size: 30px;
+  }
+  .Nav {
+    width: 850px;
+    margin: auto;
+  }
+  .Nav li {
+    padding: 25px 30px 15px 30px;
+  }
+  .box {
+    width: 25%;
+    margin: 0px 40px 0px 40px;
+  }
+  #greeting {
+    font-size: 100px;
+    height: 300px;
+  }
+  #welcome-text {
+    font-size: 35px;
+    height: 150px;
+  }
+  .footer {
+    font-size: 18px;
+    height: 4rem;
+    padding: 30px;
+  }
+}
+
+    </style>
+</head>
+<body>
+    <nav class = "Nav">
+        <ul>
+            <li style="float:left; font-size:30px"><aa>KISHAN VED</aa></li>
+            <li><a href=""#>Home</a></li>
+            <li><a href=""#>Blog</a></li>
+            <li><a href=""#>Contact me</a></li>
+            <li><a href=""#>About</a></li>
+        </ul>
+    </nav>
+    <div style="margin:auto; text-align: center;">
+        <h1>About Me</h1>
+      </div>
+        
+        <div class="box">
+        <!-- <div class="box" style="background: url(./me.jpg) no-repeat center center/cover;"> -->
+            <!-- Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, quod neque temporibus ea placeat eum nostrum praesentium dolorum voluptate, nihil facere aliquam enim perferendis voluptatibus quibusdam minima natus. Eveniet autem excepturi cum obcaecati maiores omnis, quaerat consequatur quo est provident. -->
+            <img src="./me3.jpg" height="550">
+        </div>
+        <div class="box" style="height:500px; width:800px;">
+          Hello, I'm Kishan Ved! I am a Computer Science Engineering student from the Indian Institute of Technology Gandhinagar.
+
+          From a young age, I have always been fascinated by technology and its endless possibilities. As I grew older, this fascination turned into a passion for learning about all things related to technology. I am a true learning enthusiast who is always eager to explore new topics and acquire new skills.
+          
+          During my time at Thakur International School, I discovered my love for computers and technology. This led me to pursue a degree in Computer Science Engineering at the prestigious Indian Institute of Technology Gandhinagar. During my time at university, I had the opportunity to learn from some of the best professors in the field and work on cutting-edge projects that further fueled my passion for technology.
+          
+          Apart from academics, I have also been actively involved in various extracurricular activities such as coding competitions, hackathons, and volunteer work. These experiences have taught me invaluable skills such as teamwork, problem-solving, and time management.
+            <!-- Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi voluptatem praesentium quibusdam possimus aliquam ex eos in fuga autem neque itaque fugiat animi id, quos excepturi porro magni. Eaque explicabo dolor optio voluptate impedit ea eius corrupti nulla, animi minus! -->
+        </div>
+        
+    </div>
+    <!-- <div class="footer" style="font-style: italic;">"--Either I win or I learn.--"</div> -->
+    </body>
+</html>
