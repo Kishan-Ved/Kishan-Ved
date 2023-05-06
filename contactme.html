@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact Me</title>
+	<style>
+        body{
+            background-color: #2c3237;
+        }
+
+        .Nav{
+            /* border: 2px solid red; */
+            border-radius: 30px;
+            border: 3px solid white;
+            background-color:#2c3237;
+            /* On scrolling, when it reaches the specified place, it sticks there */
+            position:sticky;
+            width:850px;
+            margin: auto;
+            top : 3px;
+            z-index: 1; 
+            /* So nav bar remains above */
+        }
+        
+        .Nav ul{
+            font-size: 10px;
+            overflow: auto; /*Prevents the elements on it from moving outside (overflowing). In this case, the text moves outside the navigation bar if this is not done*/
+        }
+        .Nav li{
+            list-style : none;
+            float:right;
+            padding:25px 30px 15px 30px;
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif ;
+            font-weight: bold;
+            font-style: italic;
+        }
+        .Nav li a{
+            text-decoration: none;
+            color:white;
+        }
+        .Nav li a:hover{
+            color:rgb(6, 6, 99);
+        }
+        .Nav li aa{
+            font-family: 'Fuzzy Bubbles', cursive;
+            font-size:500;
+            color:white;
+            font-style:normal;
+        }
+        .box{
+            background-color:#2c3237;
+            color:white;
+            height:550px;
+            width:25%;
+            border-radius: 30px;
+            /* position:absolute; */
+            top:100px;
+            display : inline-block; 
+            margin:0px 40px 0px 40px; 
+            border: 3px solid white;
+            padding:30px;
+            font-size: 25px;
+            overflow: auto;
+        }
+        .footer{
+            background-color:#2c3237;
+            height:6rem;
+            color:white;
+            width:80%;
+            border-radius: 30px;
+            /* position:relative; */
+            /* top:100px; */
+            /* display : block; 
+            margin: 30px auto;
+            padding:30px; */
+            display: flex;
+            margin : 20px auto;
+            justify-content: center; /* horizontally center */
+            align-items: center; /* vertically center */
+            border: 3px solid white;
+        }
+        #greeting {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 100px;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  /* border: 2px solid black; */
+  border-radius:10px;
+  /* display:block; */
+  display: flex;
+      justify-content: center;
+      align-items: center;
+  /* display: flex; */
+  margin:auto auto;
+  color:white;
+  height:300px;
+  font-family: 'Fuzzy Bubbles', cursive;
+  /* text-shadow: black; */
+  /* background-color: white; */
+  /* z-index: 1;  */
+}
+        #welcome-text {
+  font-size: 35px;
+  text-align: center;
+  margin-top: 100px;
+  /* opacity: 0; */
+  /* border: 2px solid black; */
+  border-radius:10px;
+  /* display:block; */
+  display: flex;
+      justify-content: center;
+      align-items: center;
+  /* display: flex; */
+  margin:auto auto;
+  color:white;
+  height:150px;
+  /* text-shadow: black; */
+  /* background-color: white; */
+  /* z-index: 1;  */
+}
+/* Small screens */
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 20px;
+  }
+  .Nav {
+    width: 100%;
+  }
+  .Nav li {
+    padding: 10px;
+  }
+  .box {
+    width: 100%;
+    margin: 20px 0;
+  }
+  #greeting {
+    font-size: 50px;
+    height: 200px;
+  }
+  #welcome-text {
+    font-size: 20px;
+    height: 100px;
+  }
+  .footer {
+    font-size: 14px;
+    height: auto;
+    padding: 10px;
+  }
+}
+
+/* Medium screens */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  body {
+    font-size: 25px;
+  }
+  .Nav {
+    width: 100%;
+  }
+  .Nav li {
+    padding: 15px;
+  }
+  .box {
+    width: 45%;
+    margin: 20px;
+  }
+  #greeting {
+    font-size: 75px;
+    height: 250px;
+  }
+  #welcome-text {
+    font-size: 25px;
+    height: 125px;
+  }
+}
+
+/* Large screens */
+@media only screen and (min-width: 1025px) {
+  body {
+    font-size: 30px;
+  }
+  .Nav {
+    width: 850px;
+    margin: auto;
+  }
+  .Nav li {
+    padding: 25px 30px 15px 30px;
+  }
+  .box {
+    width: 25%;
+    margin: 0px 40px 0px 40px;
+  }
+
+}
+
+
+		.container {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			margin-top: 50px;
+		}
+
+		.button {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin-bottom: 20px;
+			width: 200px;
+			height: 50px;
+			border-radius: 25px;
+			font-size: 24px;
+			color: white;
+			text-decoration: none;
+			transition: all 0.2s ease;
+			cursor: pointer;
+		}
+
+		.github {
+			background-color: black;
+		}
+
+		.linkedin {
+			background-color: #0077B5;
+		}
+
+		.instagram {
+			background-color: #E1306C;
+		}
+
+		.gmail {
+			background-color: #D44638;
+		}
+
+		.button:hover {
+			transform: scale(1.1);
+		}
+	</style>
+</head>
+<body>
+    <nav class = "Nav">
+        <ul>
+            <li style="float:left; font-size:30px"><aa>KISHAN VED</aa></li>
+            <li><a href="index.html"#>Home</a></li>
+            <li><a href=""#>Contact me</a></li>
+            <li><a href="projects.html"#>Projects</a></li>
+            <li><a href="about.html"#>About</a></li>
+        </ul>
+    </nav>
+    <h1 style="color:white;text-align: center;">Contact Me</h1>
+	<div class="container">
+        
+		<a href="https://github.com/Kishan-Ved" target="_blank" class="button github"><i class="fab fa-github"></i> GitHub</a>
+		<a href="https://www.linkedin.com/in/kishan-ved-506140259/" target="_blank" class="button linkedin"><i class="fab fa-linkedin"></i> LinkedIn</a>
+		<a href="https://www.instagram.com/your-username/" target="_blank" class="button instagram"><i class="fab fa-instagram"></i> Instagram</a>
+		<a href="mailto:your-kishan.ved@gmail.com" class="button gmail"><i class="fas fa-envelope"></i> Gmail</a>
+	</div>
+</body>
+</html>
