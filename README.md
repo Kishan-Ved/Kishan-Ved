@@ -5,7 +5,7 @@ I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>I'm
 ## 🌐 Websites + Social:
 Here's my personal website: https://kishanved.tech/ <br>
 I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
-Codeforces handle: kishan.ved
+Codeforces handle: kishan.ved <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishan_.ved) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-ved-506140259/)
 
 # 💻 Tech Stack:
