@@ -2,7 +2,9 @@
 I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>I'm looking for Open Source Projects to contribute to.<br>I'm keen to build projects that benefit the society.<br>I love competitive programming.<br>I have a deep inclination for machine learning.
 
 
-## 🌐 Socials:
+## 🌐 Websites + Social:
+Here's my personal website: https://kishanved.tech/
+I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishan_.ved) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-ved-506140259/)
 
 # 💻 Tech Stack:
