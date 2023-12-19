@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>I'm looking to contribute to Open Source Projects.<br>I'm keen to build projects that benefit the society.<br>I love competitive programming.<br>I have a deep inclination for machine learning.
+I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>I'm looking for Open Source Projects to contribute to.<br>I'm keen to build projects that benefit the society.<br>I love competitive programming.<br>I have a deep inclination for machine learning.
 
 
 ## 🌐 Socials:
