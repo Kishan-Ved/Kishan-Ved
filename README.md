@@ -3,7 +3,7 @@ I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>I'm
 
 
 ## 🌐 Resume + Websites + Social:
-Find my resume here: https://drive.google.com/file/d/13cOCOwTt04oo2hfpsjTupaOT2xi84pCe/view?usp=sharing <br>
+Find my resume here: <a href="https://drive.google.com/file/d/13cOCOwTt04oo2hfpsjTupaOT2xi84pCe/view?usp=sharing" target="_blank">Resume</a> <br>
 Here's my personal website: https://kishanved.tech/ <br>
 I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
 Codeforces handle: kishan.ved <br>
