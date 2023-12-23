@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kishan-ved.github.io/sitemap.xml
+Sitemap: https://Kishan-Ved.github.io/sitemap.xml
