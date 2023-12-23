@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /github/
+permalink: /githubstats/
 title: Github
 description: Listed below are my GitHub statistics. If you want to check out my GitHub Repositories, check Repositories on the navbar.
 nav: true
