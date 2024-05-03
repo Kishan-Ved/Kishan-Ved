@@ -1,6 +1,19 @@
 # 💫 About Me:
-I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>I'm looking for Open Source Projects to contribute to.<br>I'm keen to build projects that benefit the society.<br>I love competitive programming.<br>I have a deep inclination for machine learning.
+I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>I’m an Open Source Contributor and I’m currently contributing to NumFOCUS for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>I'm keen to build projects that benefit the society.<br>I love competitive programming.<br>I have a deep inclination for machine learning.
 
+# Google Summer of Code 2024
+
+### My Organization
+I'm contributing to [NumFOCUS](https://summerofcode.withgoogle.com/programs/2024/organizations/numfocus) for GSoC 2024.<br>
+Within the NumFOCUS umbrella, my project is in collaboration with [Open Science Labs](https://opensciencelabs.org/).<br>
+My Project is associated with [CodeZoned](https://codezonediitj.github.io/)'s [PyDataStructs](https://pydatastructs.readthedocs.io/en/stable/).<br>
+
+### My GSoC Project
+I'll be working on the project: [Add C++ Backend for all trees and port stack.py to C++ Backend](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
+More information about my project is in my [GSoC'24 blog post](https://kishanved.tech/blog/my_gsoc).<br>
+
+### GSoC Blogs
+My GSoC blogs are on my [website](https://kishanved.tech/blog/).
 
 ## 🌐 Resume + Websites + Social:
 Find my resume here: <a href="https://kishanved.tech/assets/pdf/Kishan_Ved_Resume_Mar29.pdf" target="_blank">Resume</a> <br>
