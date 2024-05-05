@@ -16,7 +16,7 @@ More information about my project is in my [GSoC'24 blog post](https://kishanved
 My GSoC blogs are on my [website](https://kishanved.tech/blog/).
 
 ## 🌐 Resume + Websites + Social:
-Find my resume here: <a href="https://kishanved.tech/assets/pdf/Kishan_Ved_Resume_Mar29.pdf" target="_blank">Resume</a> <br>
+Find my resume here: <a href="https://kishanved.tech/assets/pdf/Kishan_Ved_Resume_May5.pdf" target="_blank">Resume</a> <br>
 Here's my personal website: https://kishanved.tech <br>
 I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
 Codeforces handle: kishan.ved <br>
