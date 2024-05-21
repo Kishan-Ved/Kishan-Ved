@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>I’m an Open Source Contributor and I’m currently contributing to NumFOCUS for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>I'm keen to build projects that benefit the society.<br>I love competitive programming.<br>I have a deep inclination for machine learning.
+- I'm a sophomore at IIT Gandhinagar studying Computer Science Engineering.<br>
+- I’m an Open Source Contributor and I’m currently contributing to NumFOCUS for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
+- I have also contributed to LFortran, a Fortran compiler and LPython, a Python compiler.
+- I'm keen to build projects that benefit the society.<br>
+- I love competitive programming.<br>
+- I have a deep inclination for machine learning.
 
 # Google Summer of Code 2024
 
