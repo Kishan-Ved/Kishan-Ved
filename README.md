@@ -6,7 +6,7 @@
 - I love competitive programming.<br>
 - I have a deep inclination for machine learning.
 
-# Google Summer of Code 2024
+# 🌞 Google Summer of Code 2024
 
 ### My Organization
 I'm contributing to [NumFOCUS](https://summerofcode.withgoogle.com/programs/2024/organizations/numfocus) for GSoC 2024.<br>
