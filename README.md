@@ -16,14 +16,14 @@ I'll be working on the project: [Add C++ Backend for all trees and port stack.py
 More information about my project is in my [GSoC'24 blog post](https://kishanved.tech/blog/my_gsoc).<br>
 My GSoC blogs are on my [website](https://kishanved.tech/blog/).
 
-## 🌐 Resume + Websites + Social:
+# 🌐 Resume + Websites + Social:
 Find my resume here: <a href="https://kishanved.tech/assets/pdf/Kishan_Ved_Resume_Jun14.pdf" target="_blank">Resume</a> <br>
 Here's my personal website: https://kishanved.tech <br>
 I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
 Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Codeforces Rating: Specialist, 1524** <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishan_.ved) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-ved-506140259/)
 
-## 🔝 Stats + Top Contributed Repo
+# 🔝 Stats + Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kishan-Ved&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api?username=Kishan-Ved&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!--
