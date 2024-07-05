@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Kishan+Ved." alt="Typing SVG" /></a>
+
 # 💫 About Me:
 - I'm a third year undergraduate at IIT Gandhinagar studying Computer Science Engineering.<br>
 - I’m an Open Source Contributor and I’m currently contributing to NumFOCUS for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
