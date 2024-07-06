@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Kishan+Ved." alt="Typing SVG" /></a>
 
-# 💫 About Me:
+## 💫 About Me:
 - I'm a third year undergraduate at IIT Gandhinagar studying Computer Science Engineering.<br>
 - I’m an Open Source Contributor and I’m currently contributing to NumFOCUS for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
 - I have also contributed to [LFortran](https://github.com/lfortran/lfortran), a Fortran compiler and [LPython](https://github.com/lcompilers/lpython), a Python compiler.
@@ -8,7 +8,7 @@
 - I love competitive programming. Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Codeforces Rating: Specialist, 1524** <br>
 - I have a deep inclination for machine learning.
 
-# 🌞 Google Summer of Code 2024
+## 🌞 Google Summer of Code 2024
 
 ### My Organization
 I'm contributing to [NumFOCUS](https://summerofcode.withgoogle.com/programs/2024/organizations/numfocus) for GSoC 2024. Within the NumFOCUS umbrella, my project is in collaboration with [Open Science Labs](https://opensciencelabs.org/). My Project is associated with [CodeZoned](https://codezonediitj.github.io/)'s [PyDataStructs](https://pydatastructs.readthedocs.io/en/stable/).<br>
@@ -18,14 +18,14 @@ I'll be working on the project: [Add C++ Backend for all trees and port stack.py
 More information about my project is in my [GSoC'24 blog post](https://kishanved.tech/blog/my_gsoc).<br>
 My GSoC blogs are on my [website](https://kishanved.tech/blog/).
 
-# 🌐 Resume + Websites + Social:
+## 🌐 Resume + Websites + Social:
 Find my resume here: <a href="https://kishanved.tech/assets/pdf/Kishan_Ved_Resume_Jun14.pdf" target="_blank">Resume</a> <br>
 Here's my personal website: https://kishanved.tech <br>
 I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
 Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Codeforces Rating: Specialist, 1524** <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishan_.ved) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-ved-506140259/)
 
-# 🔝 Stats + Top Contributed Repo
+## 🔝 Stats + Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kishan-Ved&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api?username=Kishan-Ved&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!--
