@@ -2,6 +2,7 @@
 
 ## 💫 About Me:
 - I'm a third year undergraduate at IIT Gandhinagar studying Computer Science Engineering.<br>
+- I'll be joining **Microsoft** for an internship in Summer 2025.
 - I’m an Open Source Contributor and I have contributed to NumFOCUS for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
 - I have also contributed to large scale open source projects like [LFortran](https://github.com/lfortran/lfortran), a Fortran compiler and [LPython](https://github.com/lcompilers/lpython), a Python compiler.
 - I'm keen to build impactful projects that benefit the society.<br>
