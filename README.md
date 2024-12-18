@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Kishan+Ved." alt="Typing SVG" /></a>
 
 ## 💫 About Me:
-- I'm a third year undergraduate at IIT Gandhinagar studying Computer Science Engineering.<br>
+- I'm a third year undergraduate at **IIT Gandhinagar** studying Computer Science Engineering.<br>
 - I'll be joining **Microsoft** as a **Software Engineering Intern** in Summer 2025.
 - I’m an Open Source Contributor and I have contributed to NumFOCUS ([PyDataStructs](https://github.com/codezonediitj/pydatastructs)) for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
 - I have also contributed to large scale open source projects like [LFortran](https://github.com/lfortran/lfortran), a Fortran compiler and [LPython](https://github.com/lcompilers/lpython), a Python compiler.
