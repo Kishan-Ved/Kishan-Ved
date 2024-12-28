@@ -17,7 +17,7 @@
 - My Weekly GSoC blogs are on my [website](https://kishanved.tech/blog/).
 
 ## 🌐 Resume + Websites + Social:
-- Find my resume here: <a href="https://kishanved.tech/assets/pdf/Kishan_Ved_Resume_Jun14.pdf" target="_blank">Resume</a> <br>
+- Find my resume here: <a href="https://kishanved.tech/assets/pdf/Resume_Kishan_Ved_IITGN_28_Dec.pdf" target="_blank">Resume</a> <br>
 - Here's my personal website: https://kishanved.tech <br>
 - I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
 - Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Codeforces Rating: Specialist, 1524** <br>
