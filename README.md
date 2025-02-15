@@ -6,7 +6,7 @@
 - I’m an Open Source Contributor and I have contributed to NumFOCUS ([PyDataStructs](https://github.com/codezonediitj/pydatastructs)) for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
 - I have also contributed to large scale open source projects like [LFortran](https://github.com/lfortran/lfortran), a Fortran compiler and [LPython](https://github.com/lcompilers/lpython), a Python compiler.
 - I'm keen to build impactful projects that benefit the society.<br>
-- I love competitive programming. Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Codeforces Rating: Specialist, 1524** <br>
+- I love competitive programming. Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Max Codeforces Rating: Specialist, 1524** <br>
 - I have a deep inclination for machine learning.
 
 ## 🌞 Google Summer of Code 2024
