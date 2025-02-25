@@ -13,7 +13,7 @@
 
 - I am working on the project: [Add a C++ Backend for tree data structures and their algorithms](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
 - I'm contributing to NumFOCUS organization for GSoC 2024. My Project is associated with the Python package: [PyDataStructs](https://pydatastructs.readthedocs.io/en/stable/).<br>
-- More information about my project is in my [GSoC'24 blog post](https://kishan-ved.github.io/portfolio/blog/gsoc_report).<br>
+- More information about my project is in my [GSoC'24 final report](https://kishan-ved.github.io/portfolio/blog/gsoc_report).<br>
 - My Weekly GSoC blogs are on my [website](https://kishan-ved.github.io/portfolio/blog/).
 
 ## 🌐 Resume + Websites + Social:
