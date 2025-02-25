@@ -13,11 +13,11 @@
 
 - I am working on the project: [Add a C++ Backend for tree data structures and their algorithms](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
 - I'm contributing to NumFOCUS organization for GSoC 2024. My Project is associated with the Python package: [PyDataStructs](https://pydatastructs.readthedocs.io/en/stable/).<br>
-- More information about my project is in my [GSoC'24 blog post](https://kishanved.tech/blog/my_gsoc).<br>
-- My Weekly GSoC blogs are on my [website](https://kishanved.tech/blog/).
+- More information about my project is in my [GSoC'24 blog post](https://kishan-ved.github.io/portfolio/blog/my_gsoc).<br>
+- My Weekly GSoC blogs are on my [website](https://kishan-ved.github.io/portfolio/blog/).
 
 ## 🌐 Resume + Websites + Social:
-- Find my resume here: <a href="https://kishanved.tech/assets/pdf/Resume_Kishan_Ved_IITGN_28_Dec.pdf" target="_blank">Resume</a> <br>
+- Find my resume here: <a href="https://assets/pdf/Resume_Kishan_Ved_IITGN_28_Dec.pdf" target="_blank">Resume</a> <br>
 - Here's my personal website: https://kishanved.tech <br>
 - I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
 - Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Codeforces Rating: Specialist, 1524** <br>
