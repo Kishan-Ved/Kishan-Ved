@@ -18,7 +18,7 @@
 
 ## 🌐 Resume + Websites + Social:
 - Find my resume here: <a href="https://assets/pdf/Resume_Kishan_Ved_IITGN_28_Dec.pdf" target="_blank">Resume</a> <br>
-- Here's my personal website: https://kishanved.tech <br>
+- Here's my personal website: https://https://kishan-ved.github.io/portfolio/ <br>
 - I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
 - Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Codeforces Rating: Specialist, 1524** <br>
 - Social accounts: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishan_.ved) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-ved-506140259/)
