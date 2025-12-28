@@ -1,14 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=2000&color=1255FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Kishan+Ved." alt="Typing SVG" /></a>
 
 ## 💫 About Me:
-- I'm a third year undergraduate at **IIT Gandhinagar** studying Computer Science Engineering.<br>
-- I am currently a **Software Engineering Intern** at **Tower Research Capital**, a **High Frequency Trading (HFT)** firm.
+- I'm a final year undergraduate at **IIT Gandhinagar** studying Computer Science Engineering.<br>
+- I have intered as a **Software Engineering Intern** at **Tower Research Capital**, a **High Frequency Trading (HFT)** firm, from July - December 2025.
 - I have interned at **Microsoft** as a **Software Engineering Intern** in Summer 2025.
 - I’m an Open Source Contributor and I have contributed to NumFOCUS ([PyDataStructs](https://github.com/codezonediitj/pydatastructs)) for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
 - I have also contributed to large scale open source projects like [LFortran](https://github.com/lfortran/lfortran), a Fortran compiler and [LPython](https://github.com/lcompilers/lpython), a Python compiler.
 - I'm keen to build impactful projects that benefit the society.<br>
-- I love competitive programming. Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Max Codeforces Rating: Specialist, 1524** <br>
-- I have a deep inclination for machine learning.
 
 ## 🌞 Google Summer of Code 2024
 
@@ -20,9 +18,7 @@
 ## 🌐 Resume + Websites + Social:
 - Find my resume here: <a href="https://kishan-ved.github.io/portfolio/assets/pdf/Resume_Kishan_Ved_IITGN_28_Dec.pdf" target="_blank">Resume</a> <br>
 - Here's my personal website: https://kishan-ved.github.io/portfolio/ <br>
-- I regularly write Machine Learning and Technology related Blogs here: https://kishan-ved.github.io/Blogs/ <br>
-- Codeforces handle: [kishan.ved](https://codeforces.com/profile/kishan.ved), **Codeforces Rating: Specialist, 1524** <br>
-- Social accounts: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishan_.ved) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-ved-506140259/)
+- Social accounts: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-ved-506140259/)
 
 ## 🔝 Stats + Top Contributed Repo
 ![](https://github-readme-stats.vercel.app/api?username=Kishan-Ved&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
@@ -45,4 +41,5 @@
 [![](https://visitcount.itsvg.in/api?id=Kishan-Ved&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
