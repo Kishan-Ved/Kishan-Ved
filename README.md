@@ -10,13 +10,13 @@
 
 ## 🌞 Google Summer of Code 2024
 
-- I am working on the project: [Add a C++ Backend for tree data structures and their algorithms](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
-- I'm contributing to NumFOCUS organization for GSoC 2024. My Project is associated with the Python package: [PyDataStructs](https://pydatastructs.readthedocs.io/en/stable/).<br>
+- I worked on the project: [Add a C++ Backend for tree data structures and their algorithms](https://summerofcode.withgoogle.com/programs/2024/projects/2nrxEFTg).<br>
+- I contributed to the NumFOCUS organization for GSoC 2024. My Project is associated with the Python package: [PyDataStructs](https://pydatastructs.readthedocs.io/en/stable/).<br>
 - More information about my project is in my [GSoC'24 final report](https://kishan-ved.github.io/portfolio/blog/gsoc_report).<br>
 - My Weekly GSoC blogs are on my [website](https://kishan-ved.github.io/portfolio/blog/).
 
 ## 🌐 Resume + Websites + Social:
-- Find my resume here: <a href="https://kishan-ved.github.io/portfolio/assets/pdf/Resume_Kishan_Ved_IITGN_28_Dec.pdf" target="_blank">Resume</a> <br>
+- Find my resume here: <a href="https://kishan-ved.github.io/portfolio/assets/pdf/Kishan_Ved_Resume_Sept8.pdf" target="_blank">Resume</a> <br>
 - Here's my personal website: https://kishan-ved.github.io/portfolio/ <br>
 - Social accounts: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-ved-506140259/)
 
@@ -41,5 +41,6 @@
 [![](https://visitcount.itsvg.in/api?id=Kishan-Ved&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
